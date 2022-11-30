@@ -68,7 +68,7 @@ The method cards describe various techniques and methods that can be used in med
 |32|	Unwanted Future
 |33|	Negotiate
 |34|	Reconciliation
-|35|	Wertebilder
+|35|	Value Pictures
 
 ## Mediation Phase Cards
 
@@ -76,10 +76,10 @@ The Phase Cards provide support for the six phases of mediation (Preparation/Int
 
 | Phase | Content |
 | - | - |
-|1|	Vorbereitung und Einführung
-|2|	Informations- und Themensamlung
-|3| Bedürfniss- und Interessenklärung
-|4| Kreative Optionssuche
-|5| Bewertung und Aushandlung
-|6| Vereinbarund und Abschluss
+|1|	Preparation/Introduction
+|2|	Information/Topic collection
+|3| Clarification of Needs/Interests
+|4| Creative Options Search
+|5| Evaluation/Negotiation
+|6| Agreement/Conclusion
 
