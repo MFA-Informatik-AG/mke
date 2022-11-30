@@ -11,7 +11,9 @@ The Mediator Cards are licensed under
 
 # Mediator Cards
 
-The idea for the mediator cards was born during my CAS 'Mediation in Business, Work and the Public Sector' at the Institute of Law and Legal Practice at the University of St. Gallen. My goal was to be able to quickly recall what I had learned in a simple and practical way. The mediator cards offer a simple and practical way to recall methods and techniques as well as the mediation phases, if the appropriate methodological basics and knowledge are available. The method cards briefly describe general techniques and are not specific to mediation. 
+The idea for the mediator cards was born during my CAS 'Mediation in Business, Work and the Public Sector' at the Institute of Law and Legal Practice at the University of St. Gallen. My goal was to be able to quickly recall what I had learned. 
+
+The mediator cards offer a simple and practical way to recall methods and techniques as well as the 6 phase mediation if the methodological basics and knowledge are available. The method cards briefly describe general techniques and are not specific to mediation. 
 
 The cards are intended as a memory aid and do not claim to be complete or correct.
 
