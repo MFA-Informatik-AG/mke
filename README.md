@@ -72,7 +72,7 @@ The method cards describe various techniques and methods that can be used in med
 
 ## Mediation Phase Cards
 
-The Phase Cards provide support for the six phases of mediation (Preparation/Introduction, Information and Issue Gathering, Needs and Interests Clarification, Creative Option Search, Assessment/Action, and Agreement/Conclusion). This over four steps, which I have divided into Initialization, Preparation, Implementation, and Follow-up. In addition, on the back of each phase card there are tips & tricks and a panic room with helpful suggestions if something in the mediation phase does not go as desired.
+The Phase Cards provide support for the 6 phases of mediation as well as some tips & tricks and a panic room with helpful suggestions if something in the mediation phase does not go as desired.
 
 | Phase | Content |
 | - | - |
